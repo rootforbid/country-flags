@@ -1,6 +1,6 @@
 # Accurate country flags
 
-This repository contains accurate renders of all the worlds flags in SVG and PNG format.
+This repository contains accurate renders of all the worlds flags in SVG format.
 
 View all of the flags here: https://hampusborgos.github.io/country-flags/
 
