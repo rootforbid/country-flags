@@ -1,16 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 72 36">
-<rect fill="#024FA2" width="72" height="36"/>
-<rect fill="#fff" y="6" width="72" height="24"/>
-<rect fill="#ED1C27" y="7" width="72" height="22"/>
-<circle fill="#fff" cx="24" cy="18" r="8"/>
-<g id="star" transform="translate(24,18) scale(7.75)" fill="#ED1C27">
-<g id="cone">
-<polygon id="triangle" points="0,0 0,1 .5,1" transform="translate(0,-1) rotate(18)"/>
-<use xlink:href="#triangle" transform="scale(-1,1)" id="use12"/>
-</g>
-<use xlink:href="#cone" transform="rotate(72)" id="use14"/>
-<use xlink:href="#cone" transform="rotate(-72)" id="use16"/>
-<use xlink:href="#cone" transform="rotate(144)" id="use18"/>
-<use xlink:href="#cone" transform="rotate(-144)" id="use20"/>
-</g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 58.92 34.37"><path fill="#2a4b9e" d="M0 0h58.93v5.73H0zM0 28.64h58.93v5.73H0z"/><path fill="#d90031" d="M0 6.68h58.93v21H0z"/><path fill="#fff" d="M0 5.73h58.93v.95H0zM0 27.69h58.93v.95H0zM22.92 9.55a7.64 7.64 0 0 1 7.64 7.64 7.64 7.64 0 0 1-7.64 7.64 7.64 7.64 0 0 1-7.64-7.64 7.64 7.64 0 0 1 7.64-7.64"/><path fill="#d90031" d="M22.92 9.79l1.66 5.11h5.37l-4.35 3.16 1.66 5.11-4.34-3.16-4.35 3.16 1.66-5.11-4.35-3.16h5.37z"/></svg>

@@ -1,15 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 209 110">
-<rect fill="#bf0a30" width="209" height="110"/>
-<path d="M0,15H209 M0,35H209 M0,55H209 M0,75H209 M0,95H209" stroke="#fff" stroke-width="10"/>
-<rect fill="#002868" width="50" height="50"/>
-<g transform="translate(25,25) scale(15)">
-<g id="B">
-<polygon id="A" fill="#fff" points="0,0 0,1 .5,1" transform="translate(0,-1) rotate(18)"/>
-<use xlink:href="#A" transform="scale(-1,1)"/>
-</g>
-<use xlink:href="#B" transform="rotate(72)"/>
-<use xlink:href="#B" transform="rotate(-72)"/>
-<use xlink:href="#B" transform="rotate(144)"/>
-<use xlink:href="#B" transform="rotate(-144)"/>
-</g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 58.92 34.37"><path fill="#ae0037" d="M15.62 0L0 18.75v3.13l1.56 1.56L0 25v3.12l1.56 1.57L0 31.25v3.12h58.92v-3.12l-1.56-1.56 1.56-1.57V25l-1.56-1.56 1.56-1.56v-3.13l-1.56-1.56 1.56-1.56V12.5l-1.56-1.56 1.56-1.56V6.25l-1.56-1.56 1.56-1.56V0z"/><path d="M0 31.25h58.92v-3.13H0v3.13zM0 25h58.92v-3.12H0V25zM15.62 3.13L0 15.63v3.13h58.92v-3.13h-43.3L12.5 12.5h46.43V9.38H12.5V6.25h46.43V3.13H15.62z" fill="#fff"/><path fill="#192967" d="M0 0h15.62v15.63H0z"/><path fill="#fff" d="M7.81 3.13L6.36 7.58l2.68.87z"/><path fill="#fff" d="M7.81 3.13l1.45 4.45-2.67.87z"/><path fill="#fff" d="M12.27 6.36H7.58v2.82z"/><path fill="#fff" d="M12.27 6.36L8.48 9.12 6.82 6.84z"/><path fill="#fff" d="M10.57 11.6L9.12 7.15l-2.68.87z"/><path fill="#fff" d="M10.57 11.6L6.78 8.85l1.65-2.28z"/><path fill="#fff" d="M5.06 11.6l3.79-2.75L7.2 6.57z"/><path fill="#fff" d="M5.06 11.6l1.45-4.45 2.67.87z"/><path fill="#fff" d="M3.35 6.36l3.8 2.76L8.8 6.84z"/><path fill="#fff" d="M3.35 6.36h4.69v2.82z"/></svg>
