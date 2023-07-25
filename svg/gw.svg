@@ -1,13 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-2 -3 12 6">
-<rect x="-2" y="-3" width="4" height="6" fill="#ce1126"/>
-<rect x="2" y="-3" width="8" height="3" fill="#fcd116"/>
-<rect x="2" width="8" height="3" fill="#009e49"/>
-<g id="c">
-<path id="t" d="M 0,-1 v 1 h .5" transform="rotate(18 0,-1)" fill="#000"/>
-<use xlink:href="#t" transform="scale(-1,1)"/>
-</g>
-<use xlink:href="#c" transform="rotate(72)"/>
-<use xlink:href="#c" transform="rotate(144)"/>
-<use xlink:href="#c" transform="rotate(216)"/>
-<use xlink:href="#c" transform="rotate(288)"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 58.92 34.37"><path fill="#bc0030" d="M0 0h20.42v34.37H0z"/><path fill="#f3d02f" d="M20.42 0h38.51v17.19H20.42z"/><path fill="#419e4b" d="M20.42 17.19h38.51v17.19H20.42z"/><path d="M10.21 12.08l-1.58 4.86 2.43.79z"/><path d="M10.21 12.08l1.58 4.86-2.43.79z"/><path d="M15.06 15.61h-5.1v2.55z"/><path d="M15.06 15.61l-4.13 3-1.5-2.06z"/><path d="M5.35 15.61l4.13 3 1.5-2.06z"/><path d="M5.35 15.61h5.11v2.55z"/><path d="M13.21 21.32l-1.58-4.86-2.43.79z"/><path d="M13.21 21.32l-4.13-3 1.5-2.07z"/><path d="M7.21 21.32l4.13-3-1.5-2.07z"/><path d="M7.21 21.32l1.58-4.86 2.42.79z"/></svg>
