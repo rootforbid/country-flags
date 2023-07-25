@@ -1,16 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-19 -10 38 20">
-<rect x="-19" y="-10" width="38" height="20" fill="#75b2dd"/>
-<g id="star" transform="translate(0,-6)" fill="#fff">
-<g id="c">
-<path id="t" d="M 0,-2 V 0 H 1" transform="rotate(18 0,-2)"/>
-<use xlink:href="#t" transform="scale(-1,1)"/>
-</g>
-<use xlink:href="#c" transform="rotate(72)"/>
-<use xlink:href="#c" transform="rotate(144)"/>
-<use xlink:href="#c" transform="rotate(216)"/>
-<use xlink:href="#c" transform="rotate(288)"/>
-</g>
-<use xlink:href="#star" transform="rotate(90)"/>
-<use xlink:href="#star" transform="rotate(180)"/>
-<use xlink:href="#star" transform="rotate(270)"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 58.92 34.37"><path fill="#81afda" d="M0 0h58.92v34.37H0z"/><path fill="#fff" d="M29.46 3.44L28.4 6.71l1.63.53z"/><path fill="#fff" d="M29.46 3.44l1.06 3.27-1.63.53z"/><path fill="#fff" d="M32.73 5.81h-3.44v1.72z"/><path fill="#fff" d="M32.73 5.81l-2.78 2.02-1.01-1.39z"/><path fill="#fff" d="M26.19 5.81l2.78 2.02 1.01-1.39z"/><path fill="#fff" d="M26.19 5.81h3.44v1.72z"/><path fill="#fff" d="M31.48 9.66l-1.06-3.27-1.63.53z"/><path fill="#fff" d="M31.48 9.66L28.7 7.64l1.01-1.39z"/><path fill="#fff" d="M27.44 9.66l2.78-2.02-1.01-1.39z"/><path fill="#fff" d="M27.44 9.66l1.06-3.27 1.64.53zM43.21 17.19l-3.27-1.06-.53 1.63z"/><path fill="#fff" d="M43.21 17.19l-3.27 1.06-.53-1.63z"/><path fill="#fff" d="M40.84 20.46v-3.44h-1.72z"/><path fill="#fff" d="M40.84 20.46l-2.02-2.78 1.39-1.01z"/><path fill="#fff" d="M40.84 13.92l-2.02 2.78 1.39 1.01z"/><path fill="#fff" d="M40.84 13.92v3.44h-1.72z"/><path fill="#fff" d="M36.99 19.21l3.27-1.06-.53-1.64z"/><path fill="#fff" d="M36.99 19.21l2.02-2.78 1.39 1.01z"/><path fill="#fff" d="M36.99 15.17l2.02 2.78 1.39-1.01z"/><path fill="#fff" d="M36.99 15.17l3.27 1.06-.53 1.63zM15.71 17.19l3.27 1.06.53-1.63z"/><path fill="#fff" d="M15.71 17.19l3.27-1.06.53 1.63z"/><path fill="#fff" d="M18.09 13.92v3.44h1.72z"/><path fill="#fff" d="M18.09 13.92l2.02 2.78-1.39 1.01z"/><path fill="#fff" d="M18.09 20.46l2.02-2.78-1.39-1.01z"/><path fill="#fff" d="M18.09 20.46v-3.44h1.72z"/><path fill="#fff" d="M21.93 15.17l-3.27 1.06.53 1.63z"/><path fill="#fff" d="M21.93 15.17l-2.02 2.78-1.39-1.01z"/><path fill="#fff" d="M21.93 19.21l-2.02-2.78-1.39 1.01z"/><path fill="#fff" d="M21.93 19.21l-3.27-1.06.53-1.64zM29.46 30.94l1.06-3.27-1.63-.53z"/><path fill="#fff" d="M29.46 30.94l-1.06-3.27 1.63-.53z"/><path fill="#fff" d="M26.19 28.56h3.44v-1.72z"/><path fill="#fff" d="M26.19 28.56l2.78-2.02 1.01 1.39z"/><path fill="#fff" d="M32.73 28.56l-2.78-2.02-1.01 1.39z"/><path fill="#fff" d="M32.73 28.56h-3.44v-1.72z"/><path fill="#fff" d="M27.44 24.72l1.06 3.27 1.64-.53z"/><path fill="#fff" d="M27.44 24.72l2.78 2.02-1.01 1.39z"/><path fill="#fff" d="M31.48 24.72l-2.78 2.02 1.01 1.39z"/><path fill="#fff" d="M31.48 24.72l-1.06 3.27-1.63-.53z"/></svg>

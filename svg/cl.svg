@@ -1,14 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-4 -4 24 16">
-<path d="M20,12H-4V-4H20z" fill="#d52b1e"/>
-<path d="M4,4H20V-4H-4z" fill="#fff"/>
-<path d="M4,4H-4V-4H4z" fill="#0039a6"/>
-<g id="f">
-<g id="t">
-<path d="M0,-2V0H1z" fill="#fff" transform="rotate(18,0,-2)" id="o"/>
-<use xlink:href="#o" transform="scale(-1,1)"/>
-</g>
-<use xlink:href="#t" transform="rotate(72)"/>
-</g>
-<use xlink:href="#t" transform="rotate(-72)"/>
-<use xlink:href="#f" transform="rotate(144)"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 58.92 34.37"><path fill="#fff" d="M0 0h58.92v34.37H0z"/><path fill="#2530a9" d="M0 0h17.19v34.37H0z"/><path fill="#c22623" d="M0 17.19h58.92v17.19H0z"/><path fill="#fff" d="M8.59 4.3L7.26 8.38l2.05.67z"/><path fill="#fff" d="M8.59 4.3l1.33 4.08-2.04.67z"/><path fill="#fff" d="M12.68 7.27h-4.3v2.14z"/><path fill="#fff" d="M12.68 7.27L9.2 9.79 7.94 8.05z"/><path fill="#fff" d="M4.51 7.27l3.47 2.52 1.27-1.74z"/><path fill="#fff" d="M4.51 7.27H8.8v2.14z"/><path fill="#fff" d="M11.12 12.07L9.79 7.98l-2.04.67z"/><path fill="#fff" d="M11.12 12.07L7.64 9.55 8.9 7.81z"/><path fill="#fff" d="M6.07 12.07l3.47-2.52-1.26-1.74z"/><path fill="#fff" d="M6.07 12.07l1.32-4.09 2.05.67z"/></svg>
